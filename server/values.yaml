@@ -104,7 +104,7 @@ global:
       database:
         enabled: true
         storageClass:
-        size: 50Gi
+        size: 30Gi
         accessMode: ReadWriteOnce
       audit_database:
         enabled: true
